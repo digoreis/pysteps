@@ -1,0 +1,9 @@
+title: Exemplo de Tutorial
+destination_language: english
+description: Esse tutorial é uma forma de instalar o novo comunicador que a empresa irá utilizar para os funcionários internos
+steps:
+    - Baixar o arquivo da url https://sample.com como informado no e-mail
+    - Abrir esse arquivo compactado
+    - Copiar o arquivo para a pasta de aplicações
+    - Colocar o arquivo de configuração que foi enviado no e-mail na pasta Home do usuário
+    - Executar a aplicação
